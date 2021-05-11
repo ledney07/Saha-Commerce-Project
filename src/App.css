@@ -12,3 +12,7 @@ body {
   padding: 20px 80px;
   overflow-x: hidden;
 }
+a {
+  text-decoration: none;
+  color: #000;
+}
