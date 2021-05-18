@@ -30,8 +30,6 @@ class App extends React.Component {
               ...snapshot.data(),
             },
           });
-
-          console.log(this.state);
         });
       }
       // if there isn't an user , it will return nothing
